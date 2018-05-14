@@ -10,35 +10,8 @@ body{
 
 .stripe{
     height: 100px;
-
-}
-.menu-entry .logo{
-    height:20px;
-    vertical-align: middle;
 }
 
-.menu.stripe{
-    position:fixed;
-    background-color:rgb(51, 51, 51);
-    height:44px;
-    color:#FFFFFF;
-    font-size: 12px;
-    width:100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 0.05em;
-    opacity:0.9;
-    top:0px;
-
-
-}
-.menu.stripe .menu-entry{
-    margin:20px;
-    text-align: center;
-    padding: 2%;
-
-}
 .main1.stripe{
     height: 600px;
     text-align: center;
@@ -49,8 +22,6 @@ body{
     background-color: #FAFAFA;
     margin-top:44px;
     padding-top: 10px;
-
-
 
 }
 
@@ -154,43 +125,4 @@ a{
     vertical-align: top;
     margin:20px;
     line-height: 25px;
- }
-
- .bottomlist{
-    padding-top: 30px;
-    padding-left: 150px;
- }
-
-.titlebottom{
-   color:#333333;
-   font-weight: bold;
-}
-
-.list.explore{
-    padding-right: 50px;
-}
-
-.tobuy{
-    padding-left: 209px;
-    padding-top:20px;
-}
-
-.tobuyfind{
-    color:#589BDA;
-}
-
-.bottomline{
-    padding-left: 209px;
-}
-
- .term{
-    margin-left:20px;
- }
- .is{
-    vertical-align: middle;
-    margin-left: 38%;
- }
-
- .isra{
-    background-repeat: no-repeat;
  }
