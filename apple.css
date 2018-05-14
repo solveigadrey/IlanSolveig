@@ -10,7 +10,6 @@ body{
 
 .stripe{
     height: 100px;
-<<<<<<< HEAD
 
 }
 .menu{
@@ -42,10 +41,6 @@ body{
     padding: 2%;
 
 }
-=======
-}
-
->>>>>>> 04f437286a792cec89cf38b753ef12c72298392a
 .main1.stripe{
     height: 600px;
     text-align: center;
@@ -149,7 +144,6 @@ body{
     text-align: left;
     display: inline-block;
     vertical-align: top;
-<<<<<<< HEAD
     width: 22,5%;
     line-height: 23px;
     font-size: 11px;
@@ -195,8 +189,3 @@ hr{
     margin-left: 570px;
     margin-right: 5px;
 }
-=======
-    margin:20px;
-    line-height: 25px;
- }
->>>>>>> 04f437286a792cec89cf38b753ef12c72298392a
