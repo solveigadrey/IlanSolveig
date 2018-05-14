@@ -1,6 +1,6 @@
 @font-face{
     font-family: SF;
-    src:url("./font/SF-Pro-Text-Regular.otf");
+    src: url("./font/SF-Pro-Text-Regular.otf");
 }
 
 body{
@@ -133,6 +133,7 @@ body{
 }
 
 .fin{
+    margin-top: 950px;
     position: relative;
     height: 356px;
     bottom: 0;  
