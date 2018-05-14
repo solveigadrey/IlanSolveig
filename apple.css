@@ -1,0 +1,196 @@
+@font-face{
+    font-family: SF;
+    src:url("./font/SF-Pro-Text-Regular.otf");
+}
+
+body{
+    margin:0px;
+    font-family: SF;
+}
+
+.stripe{
+    height: 100px;
+
+}
+.menu-entry .logo{
+    height:20px;
+    vertical-align: middle;
+}
+
+.menu.stripe{
+    position:fixed;
+    background-color:rgb(51, 51, 51);
+    height:44px;
+    color:#FFFFFF;
+    font-size: 12px;
+    width:100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.05em;
+    opacity:0.9;
+    top:0px;
+
+
+}
+.menu.stripe .menu-entry{
+    margin:20px;
+    text-align: center;
+    padding: 2%;
+
+}
+.main1.stripe{
+    height: 600px;
+    text-align: center;
+    align-items: center;
+    background-image:url('./iphone_x_large.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #FAFAFA;
+    margin-top:44px;
+    padding-top: 10px;
+
+
+
+}
+
+.main2.stripe{
+    height: 600px;
+    text-align: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #FAF0EB;
+    background-image:url('./iphone_8_large.jpg');
+    padding-top: 10px;
+    margin-top:15px;
+
+}
+
+.feature.stripe{
+    display: grid;
+    padding: 10px;
+    grid-gap: 10px;
+    grid-template-columns: 50% 50%;
+
+
+}
+
+.grid-item{
+  padding-top: 20px;
+    text-align: center;
+    height: 500px;
+
+}
+
+.one{
+    background:url("https://images.apple.com/v/home/dn/images/promos/arkit_medium.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+    font-size: 17px;
+}
+
+.two{
+    background:url("https://images.apple.com/v/home/dn/images/promos/music_three_months_medium.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+    font-size: 17px;
+
+}
+.two .logomusic{
+    height:30px;
+}
+
+.three{
+    background:url("https://images.apple.com/euro/home/g/screens_alt/images/promos/watch_series_3_alt_nonsiri_large.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #FAFAFA;
+    color: black;
+    font-size: 17px;
+    line-height: 0%;
+}
+
+.watch{
+    margin-top: -1.5%;
+}
+
+.three .logonoir{
+    height: 30px;
+}
+
+.four{
+    background:url("https://images.apple.com/v/home/dn/images/promos/imac_pro_medium.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #1A1A1A;
+    color:white;
+    font-size: 17px;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
+
+
+.bottom.stripe{
+    background-color:#F2F2F2;
+    height: 400px;
+    margin-top: 952px;
+    font-size: 72%;
+    list-style: none;
+    color: #666666;
+}
+
+
+.list{
+    display: inline-block;
+    list-style: none;
+    vertical-align: top;
+    margin:20px;
+    line-height: 25px;
+ }
+
+ .bottomlist{
+    padding-top: 30px;
+    padding-left: 150px;
+ }
+
+.titlebottom{
+   color:#333333;
+   font-weight: bold;
+}
+
+.list.explore{
+    padding-right: 50px;
+}
+
+.tobuy{
+    padding-left: 209px;
+    padding-top:20px;
+}
+
+.tobuyfind{
+    color:#589BDA;
+}
+
+.bottomline{
+    padding-left: 209px;
+}
+
+ .term{
+    margin-left:20px;
+ }
+ .is{
+    vertical-align: middle;
+    margin-left: 38%;
+ }
+
+ .isra{
+    background-repeat: no-repeat;
+ }
